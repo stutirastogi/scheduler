@@ -1,10 +1,10 @@
-<h4>Steps to Setup</h4>
+##Steps to Setup
 
 1. Clone the application
-git clone https://github.com/stutirastogi/scheduler.git
+git clone (https://github.com/stutirastogi/scheduler.git)
 
 2. Create Mysql database
-create database task_manager
+'create database task_manager'
 
 3. Change mysql username and password as per your installation
 open src/main/resources/application.properties
@@ -15,5 +15,5 @@ mvn spring-boot:run
 
   The app will start running at http://localhost:8080.
 
-<h4>Explore Rest APIs</h4>
+##Explore Rest APIs
 The documentation for rest apis can be found at http://localhost:8080/swagger-ui.html
