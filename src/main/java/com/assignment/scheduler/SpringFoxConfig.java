@@ -29,8 +29,8 @@ public class SpringFoxConfig {
 	    // Describe your apis
 	    private ApiInfo apiInfo() {
 	        return new ApiInfoBuilder()
-	                .title("Swagger Sample APIs")
-	                .description("This page lists all the rest apis for Swagger Sample App.")
+	                .title("Task Scheduler APIs")
+	                .description("This page lists all the rest apis for Scheduler app.")
 	                .version("1.0-SNAPSHOT")
 	                .build();
 	    }
