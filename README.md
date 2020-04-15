@@ -1,4 +1,4 @@
-##Steps to Setup
+<h3>Steps to Setup</h3>
 
 1. Clone the application
 git clone (https://github.com/stutirastogi/scheduler.git)
@@ -15,5 +15,5 @@ mvn spring-boot:run
 
   The app will start running at http://localhost:8080.
 
-##Explore Rest APIs
+<h3>Explore Rest APIs</h3>
 The documentation for rest apis can be found at http://localhost:8080/swagger-ui.html
