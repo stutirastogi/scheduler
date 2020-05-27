@@ -1,8 +1,17 @@
+<h3>Requirements</h3>
+Java - 1.8.x
+
+Maven - 3.x.x
+
+Mysql - 5.x.x
+
+elasticsearch - 7.x.x
+
 <h3>Steps to Setup</h3>
 
-1. Clone the application
+1. Clone the application locally
 
-    git clone (https://github.com/stutirastogi/Scheduler.git)
+    git clone (https://github.com/stutirastogi/bookStoreApp.git)
 
 2. Use script.sql file to create the necessary database and tables
 
