@@ -4,9 +4,7 @@
 
     git clone (https://github.com/stutirastogi/scheduler.git)
 
-2. Create Mysql database
-
-    'create database task_manager'
+2. Use script.sql file to create the necessary database and tables
 
 3. Change mysql username and password as per your installation
 
@@ -14,11 +12,11 @@
 
     change spring.datasource.username and spring.datasource.password as per your mysql installation
 
-4. Build and run the app 
+4. Open powershell in the root directory. You can now bring up the entire application with just one command:
 
-    mvn spring-boot:run
+    $ docker-compose up
 
-  The app will start running at http://localhost:8080.
+  This will start the elasticsearch server and mysql service. Application will start running at http://localhost:8080.
 
 <h3>Explore Rest APIs</h3>
 
