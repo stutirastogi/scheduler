@@ -2,7 +2,7 @@
 
 1. Clone the application
 
-    git clone (https://github.com/stutirastogi/bookStoreApp.git)
+    git clone (https://github.com/stutirastogi/Scheduler.git)
 
 2. Use script.sql file to create the necessary database and tables
 
